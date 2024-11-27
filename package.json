@@ -33,7 +33,7 @@
     "fastify-helmet": "^3.0.2",
     "fastify-multipart": "^1.0.4",
     "fastify-session": "^3.2.0",
-    "fastify-static": "^2.5.1",
+    "fastify-static": "^4.2.4",
     "fastify-url-data": "^2.4.0",
     "fs": "0.0.1-security",
     "mongoose": "^5.8.5",
